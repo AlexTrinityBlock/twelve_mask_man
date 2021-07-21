@@ -1,4 +1,4 @@
-# Twelve Mask Man
+# Twelve Mask Man 1.0
 It is a tool for  change your mac address randomly on linux.
 
 ## Description
@@ -18,49 +18,31 @@ You can change your mac address for hide your device from stalker.
 
 ```bash
 sudo apt-get update
+
 sudo apt-get install wget
-wget 
+
+wget https://raw.githubusercontent.com/AlexTrinityBlock/twelve_mask_man/master/twelve_mask_man.sh
+
+chmod +x twelve_mask_man.sh 
 ```
 
-### Executing program
+### Executing
 
-* How to run the program
-* Step-by-step bullets
 ```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
+sudo bash twelve_mask_man.sh 
 ```
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Alex Trinity  
+蕭維均  
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
+* 1.0
     * Initial Release
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+GPL-3.0 License
 
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
