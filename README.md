@@ -9,7 +9,7 @@ You can change your mac address for hide your device from stalker.
 
 ### Dependencies
 
-* Ubuntu,Debian ...etc.
+* Ubuntu 20.04,Debian 10...etc.
 * Bash shell.
 
 ### Installing
@@ -34,8 +34,7 @@ sudo bash twelve_mask_man.sh
 
 ## Authors
 
-Alex Trinity  
-蕭維均  
+Alex Trinity(蕭維均)
 
 ## Version History
 
